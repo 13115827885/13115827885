@@ -45,16 +45,7 @@ motto: "Sharing interesting projects I've built along the way"
 
 </div>
 
-##  GitHub Stats
 
-<div align="center">
-
-![13115827885's GitHub stats](https://github-readme-stats.vercel.app/api?username=13115827885&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=13115827885&layout=compact&theme=tokyonight&hide_border=true)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=13115827885&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
 
 ##  Connect with Me
 
